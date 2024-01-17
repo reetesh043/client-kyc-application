@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+
+clientService:
+  webhook:
+    url : http://localhost:8080/api/webhook
